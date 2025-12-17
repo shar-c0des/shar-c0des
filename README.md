@@ -6,12 +6,12 @@ I am a 22-year-old Software Engineer based in South Africa, rebuilding myself fr
 
 ### Active developments 💻🌐
 
-** △ Literary Pharmacy** | *FastAPI, SQLModel, Python*
+**△ Literary Pharmacy** | *FastAPI, SQLModel, Python*
 A prescriptive engine that treats literature as medicine.
 * **Architecture:** Building a backend-heavy system that maps user emotional states to literary prescriptions.
 * **Focus:** Implementing strict type validation and efficient database relations to handle complex query logic.
 
-** △ The Python Arsenal** | *Pandas, Automation, Knowledge Management*
+**△ The Python Arsenal** | *Pandas, Automation, Knowledge Management*
 A personal automated knowledge indexing system.
 * **Mechanism:** Moving away from passive tutorials to active recall. I use Python scripts to index, categorize, and surface concepts I've learned to prevent knowledge decay.
 
