@@ -61,6 +61,10 @@
 
 ## 📫 Connect
 <p align="center">
+  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="400" alt="anime girl coding" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sharleen-ngomakapile" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -73,6 +77,7 @@
 </p>
 
 ---
+
 
 <div align="center">
   <span style="color: #a5b4fc; font-size: 14px;">Made with 💜</span>
