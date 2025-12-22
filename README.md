@@ -54,7 +54,9 @@
 <p align="center" style="color: #475569; line-height: 1.6; max-width: 600px; margin: 0 auto;">
   Building with intention | Obsessed with clean systems | Coffee + coding = happy Sharleen ☕<br>
 </p>
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVuMjk2Z2NiNGx3NHh4MHEyejhxemw1bDdlb29na281dHhlanM2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="100" alt="Hello Kitty Waving" />
+</p>
 
 
 ## 📫 Connect
