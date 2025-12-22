@@ -23,11 +23,11 @@ I don’t just write code — I architect for reliability & scale, rooted in fir
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shar-C0des&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shar-c0des&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-C0des&theme=minimal&hide_border=true" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-c0des&theme=minimal&hide_border=true" alt="Streak Stats" width="400"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-C0des&theme=minimal&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-c0des&theme=minimal&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
 </div>
 
 ---
