@@ -39,15 +39,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shar-c0des&show_icons=true&title_color=FF4D6D&icon_color=FF758F&text_color=590D22&bg_color=FFF0F3&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=shar-c0des&show_icons=true&title_color=FF4D6D&icon_color=FF758F&text_color=590D22&bg_color=FFF0F3&hide_border=true" alt="GitHub Stats" width="400"/>
+  
+  <img src="https:i//github-stats-alpha.vercel.app/api/top-langs/?username=shar-c0des&layout=compact&title_color=FF4D6D&icon_color=FF758F&text_color=590D22&bg_color=FFF0F3&hide_border=true" alt="Top Languages" width="400"/>
 </div>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-c0des&layout=compact&title_color=FF4D6D&icon_color=FF758F&text_color=590D22&bg_color=FFF0F3&hide_border=true" alt="Top Languages" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shar_codes&theme=rose_pine&layout=compact&hide_border=true&v=1" alt="WakaTime Stats" width="810"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=shar_codes&theme=rose_pine&layout=compact&hide_border=true&v=2" alt="WakaTime Stats" width="810"/>
 </p>
 
 ## ✨ About Me
