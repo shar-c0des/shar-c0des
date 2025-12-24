@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=4bb0f444-6c6d-4b5b-99dd-07a3c4ccd532&theme=rose_pine&layout=compact&hide_border=true" alt="WakaTime Stats" width="810"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shar_codes&theme=rose_pine&layout=compact&hide_border=true&v=1" alt="WakaTime Stats" width="810"/>
 </p>
 
 ## ✨ About Me
