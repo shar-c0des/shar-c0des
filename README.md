@@ -45,7 +45,7 @@
 </div>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=shar_codes&theme=rose_pine&layout=compact&hide_border=true&v=2" alt="WakaTime Stats" width="810"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=meta_angel&theme=rose_pine&layout=compact&hide_border=true&v=2" alt="WakaTime Stats" width="810"/>
 </p>
 
 ## ✨ About Me
