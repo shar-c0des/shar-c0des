@@ -48,11 +48,11 @@
 
 <h1 style="color: #ADD8E6;"> Notable Builds</h1>
 
- ① **[Roomantics AR Mobile App](https://github.com/shar-c0des/roomantics-app-repo)**
+ ① **[Roomantics AR Mobile App]([https://github.com/shar-c0des/Roomantics-AR-App](https://github.com/shar-c0des/Roomantics-AR-App))**
 <p> >A AR interior design solution built to enhance client design visualization. Worked in a team - was the frontend lead.</p>
 <p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">Flutter</span>, <span style="color: #FFB6C1;">ARCore</span>, <span style="color: #DDA0DD;">Firebase</span></p>
 
- ② **[PulseBuy E-commerce Platform](https://github.com/shar-c0des/pulsebuy-repo)**
+ ② **[PulseBuy E-commerce Platform](https://github.com/shar-c0des/PulseBuy)**
 <p> > A C2C e-commerce marketplace for South Africa's informal sector. I built this entirely by myself!</p>
 <p> > <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">PHP</span>, <span style="color: #FFB6C1;">HTML</span>, <span style="color: #DDA0DD;">Tailwind</span>, <span style="color: #ADD8E6;">JavaScript</span>, <span style="color: #FFB6C1;">MySQL</span></p>
 
