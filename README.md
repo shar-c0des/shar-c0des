@@ -48,7 +48,7 @@
 
 <h1 style="color: #ADD8E6;"> Notable Builds</h1>
 
- ① **[Roomantics AR Mobile App]([https://github.com/shar-c0des/Roomantics-AR-App](https://github.com/shar-c0des/Roomantics-AR-App))**
+ ① **[Roomantics AR Mobile App](https://github.com/shar-c0des/Roomantics-AR-App)**
 <p> >A AR interior design solution built to enhance client design visualization. Worked in a team - was the frontend lead.</p>
 <p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">Flutter</span>, <span style="color: #FFB6C1;">ARCore</span>, <span style="color: #DDA0DD;">Firebase</span></p>
 
