@@ -14,28 +14,28 @@
   <img src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif" alt="Soft Animated Divider" width="400">
 </p>
 
-<h3 style="color: #ADD8E6;"> About Me </h3>
+<h1 style="color: #ADD8E6;"> About Me </h1>
 
 <p align="center" style="color: #696969; line-height: 1.8; max-width: 800px; margin: 0 auto; font-size: 1.1em;">
-Junior Software Engineer based in Stellenbosch, ZA. 
-I truly love building <strong>neat and practical systems</strong> through code that genuinely help people.
-I really enjoy the "<strong>First Principles</strong>" approach when tackling problems, and I'm especially interested in creating <strong>AI solutions</strong> for marginalized communities. 
-Learning and growing every single day makes me happy, and I want to contribute to making the world a better place through technology!
+<p><img src="https://i.pinimg.com/1200x/90/83/ba/9083ba9504e9abd4d12c136e6cbfd975.jpg" width="30" align='center' />Junior Software Engineer based in Stellenbosch, ZA. </p>
+<p><img src="https://i.pinimg.com/1200x/90/83/ba/9083ba9504e9abd4d12c136e6cbfd975.jpg" width="30" align='center' />I truly love building <strong>neat and practical systems</strong> through code that genuinely help people.</p>
+<p><img src="https://i.pinimg.com/1200x/90/83/ba/9083ba9504e9abd4d12c136e6cbfd975.jpg" width="30" align='center' />I really enjoy the "<strong>First Principles</strong>" approach when tackling problems, and I'm especially interested in creating <strong>AI solutions</strong> for marginalized communities. </p>
+<p><img src="https://i.pinimg.com/1200x/90/83/ba/9083ba9504e9abd4d12c136e6cbfd975.jpg" width="30" align='center' />Learning and growing every single day makes me happy, and I want to contribute to making the world a better place through technology!</p>
 </p>
+
+
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/51/02/e7510229f5f4ac17eb95ce8947aa03c3.gif" width="100" alt="Cute dog thinking/coding" style="margin-top: 10px;" />
+  <img src="https://i.pinimg.com/originals/77/4a/90/774a905da5dc6a227b1db5252e61f4a4.gif" width="100" alt="Cute dog thinking/coding" style="margin-top: 10px;" />
 </p>
 
----
-
-<h3 style="color: #FFB6C1;"> What I currently use to Build</h3>
+<h1 style="color: #FFB6C1;"> What I currently use to Build</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-AFEEEE?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-FFF0F5?style=for-the-badge&logo=c-sharp&logoColor=black" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-DDA0DD?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-FFF0F5?style=for-the-badge&logo=React&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/.NET-DDA0DD?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/SQL-AFEEEE?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-FFF0F5?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flutter-DDA0DD?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -46,8 +46,7 @@ Learning and growing every single day makes me happy, and I want to contribute t
   <img src="https://img.shields.io/badge/VS%20Code-FFF0F5?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code" />
 </p>
 
-<hr>
-<h3 style="color: #ADD8E6;"> Notable Builds</h3>
+<h1 style="color: #ADD8E6;"> Notable Builds</h1>
 
  ① **[Roomantics AR Mobile App](https://github.com/shar-c0des/roomantics-app-repo)**
 <p> >A AR interior design solution built to enhance client design visualization. Worked in a team - was the frontend lead.</p>
@@ -61,7 +60,7 @@ Learning and growing every single day makes me happy, and I want to contribute t
 <p> > A literary presription engine.</p>
 
 
-<h3 style="color: #FFB6C1;">🌱 Currently Learning | My Growth Journey</h3>
+<h1 style="color: #FFB6C1;"> Currently: </h1>
 
 <p> > Gemini hackathon </p>
 <p>> Preparing for Microsoft C#/.NET Certification (Leveling up my backend skills!)</p>
@@ -69,18 +68,14 @@ Learning and growing every single day makes me happy, and I want to contribute t
 <p>> Understanding large-scale system architectures and ERP concepts</p>
 
 
----
 
-<h3 style="color: #ADD8E6;">My GitHub Snapshot</h3>
+<h1 style="color: #ADD8E6;">My GitHub Snapshot</h1>
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=shar-c0des&show_icons=true&title_color=FFB6C1&icon_color=ADD8E6&text_color=696969&bg_color=FDF5F5&hide_border=true" alt="GitHub Stats" width="400"/>
 </p>
 
----
-
-<h3 style="color: #FFB6C1;">💌 Connect | Let's Talk & Collaborate!</h3>
-
+<h2 style="color: #FFB6C1;">💌 Connect | Let's Talk & Collaborate!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sharleen-ngomakapile">
     <img src="https://img.shields.io/badge/LinkedIn-DDA0DD?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
@@ -96,14 +91,3 @@ Learning and growing every single day makes me happy, and I want to contribute t
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9a/ca/86/9aca86f0ebb2ad5fd5eb2bf4d67d596e.gif" width="120" alt="Cute dog waving goodbye" style="margin-top: 100px;">
-</p>
-
----
-
-<h3 align="center" style="color: #FFB6C1;">
-  "Code with purpose, grow with passion, shine with uniqueness."
-</h3>
-
----
