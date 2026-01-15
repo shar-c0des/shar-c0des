@@ -34,8 +34,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-AFEEEE?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-FFF0F5?style=for-the-badge&logo=React&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/.NET-DDA0DD?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/React-FFF0F5?style=for-the-badge&logo=React&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML-DDA0DD?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/SQL-AFEEEE?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-FFF0F5?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flutter-DDA0DD?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
