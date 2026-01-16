@@ -46,18 +46,53 @@
   <img src="https://img.shields.io/badge/VS%20Code-FFF0F5?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code" />
 </p>
 
-<h1 style="color: #ADD8E6;"> Notable Builds</h1>
+<h1 style="color: #ADD8E6;">Notable Builds</h1>
 
- ① **[Roomantics AR Mobile App](https://github.com/shar-c0des/Roomantics-AR-App)**
-<p> >A AR interior design solution built to enhance client design visualization. Worked in a team - was the frontend lead.</p>
-<p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">Flutter</span>, <span style="color: #FFB6C1;">ARCore</span>, <span style="color: #DDA0DD;">Firebase</span></p>
-
- ② **[PulseBuy E-commerce Platform](https://github.com/shar-c0des/PulseBuy)**
-<p> > A C2C e-commerce marketplace for South Africa's informal sector. I built this entirely by myself!</p>
-<p> > <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">PHP</span>, <span style="color: #FFB6C1;">HTML</span>, <span style="color: #DDA0DD;">Tailwind</span>, <span style="color: #ADD8E6;">JavaScript</span>, <span style="color: #FFB6C1;">MySQL</span></p>
-
-③ **Literary Pharmacy Project** (In Progress)
-<p> > A literary presription engine.</p>
+<table>
+  <thead>
+    <tr>
+      <th width="250">Project Name</th>
+      <th>Description & Tech</th>
+      <th width="150">Affiliation</th>
+      <th width="100">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        ① <a href="https://github.com/shar-c0des/Roomantics-AR-App"><strong>Roomantics AR Mobile App</strong></a>
+      </td>
+      <td>
+        <p>> An AR interior design solution built to enhance client design visualization. Worked in a team - was the frontend lead.</p>
+        <p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">Flutter</span>, <span style="color: #FFB6C1;">ARCore</span>, <span style="color: #DDA0DD;">Firebase</span></p>
+      </td>
+      <td>Eduvos</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>
+        ② <a href="https://github.com/shar-c0des/PulseBuy"><strong>PulseBuy E-commerce Platform</strong></a>
+      </td>
+      <td>
+        <p>> A C2C e-commerce marketplace for South Africa's informal sector. I built this entirely by myself!</p>
+        <p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">PHP</span>, <span style="color: #FFB6C1;">HTML</span>, <span style="color: #DDA0DD;">Tailwind</span>, <span style="color: #ADD8E6;">JavaScript</span>, <span style="color: #FFB6C1;">MySQL</span></p>
+      </td>
+      <td>Eduvos</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>
+        ③ <strong>Literary Pharmacy Project</strong>
+      </td>
+      <td>
+        <p>> A literary prescription engine.</p>
+        <p>> <span style="color: #DDA0DD; font-weight: bold;">Tech:</span> <span style="color: #ADD8E6;">Python</span>, <span style="color: #FFB6C1;">FastAPI</span>, <span style="color: #DDA0DD;">SQLModel</span></p>
+      </td>
+      <td>Personal Project</td>
+      <td>In Progress</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h1 style="color: #FFB6C1;"> Currently: </h1>
